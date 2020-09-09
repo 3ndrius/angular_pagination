@@ -2,15 +2,13 @@
 
 App for recruitment that allow search and paginate results.  
 
-## [DEMO]()
-
 ## Requirements task
  
 - create service that fetch data from api 
-- implement ability to paginate results
+- implement ability to search and paginate results
 - use material design 
 
-![screen]()
+![screen](https://github.com/3ndrius/angular_pagination/blob/master/prev.png?raw=true)
 
 ## HOW TO RUN  
 
