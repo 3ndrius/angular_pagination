@@ -7,7 +7,7 @@ import { map } from "rxjs/operators";
 // interface Item {
 //   id: string;
 // }
-const planetsURL = "https://swapi.co/api/planets";
+const planetsURL = "https://swapi.dev/api/planets";
 
 @Injectable({
   providedIn: 'root'
